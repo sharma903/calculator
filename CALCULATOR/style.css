@@ -1,0 +1,34 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto' , sans-serif;
+ }
+
+ .button{
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: silver;
+    
+   }
+
+ .row{
+    margin: 8px;
+    font-size: 10px;
+    
+ }
+ 
+ .row input{
+    margin: 0;
+    padding: 10px 11px;
+    border: 2px solid black;
+    border-radius: 5px ;
+    font-size: 20px;
+ }
+
+  
